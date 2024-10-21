@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/temporada-5/static/css/main.f855e6bc.css",
-    "main.js": "/temporada-5/static/js/main.41f00144.js",
+    "main.css": "/temporada-5/static/css/main.0d469642.css",
+    "main.js": "/temporada-5/static/js/main.f4426525.js",
     "static/js/453.7a502cd2.chunk.js": "/temporada-5/static/js/453.7a502cd2.chunk.js",
     "index.html": "/temporada-5/index.html",
-    "main.f855e6bc.css.map": "/temporada-5/static/css/main.f855e6bc.css.map",
-    "main.41f00144.js.map": "/temporada-5/static/js/main.41f00144.js.map",
+    "main.0d469642.css.map": "/temporada-5/static/css/main.0d469642.css.map",
+    "main.f4426525.js.map": "/temporada-5/static/js/main.f4426525.js.map",
     "453.7a502cd2.chunk.js.map": "/temporada-5/static/js/453.7a502cd2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.41f00144.js"
+    "static/css/main.0d469642.css",
+    "static/js/main.f4426525.js"
   ]
 }
