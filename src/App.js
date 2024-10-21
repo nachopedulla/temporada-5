@@ -57,7 +57,10 @@ function App() {
                 src={`https://drive.google.com/file/d/${chapter.url}/preview`}                   
                 width={width > 700 ? "640" : "90%"}
                 height={width > 700 ? "480" : "300"}
-                allow="autoplay"
+                allowfullscreen="true" 
+                allow="fullscreen" 
+                webkitallowfullscreen="true" 
+                mozallowfullscreen="true"
               />  
             </AccordionDetails>
           </Accordion>
